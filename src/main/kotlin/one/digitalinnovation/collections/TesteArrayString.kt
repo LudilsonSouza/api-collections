@@ -17,6 +17,6 @@ fun main() {
     val nomes2 = arrayListOf("Sofia", "Josy", "Ludilson")
     nomes2.sort()
     nomes2.forEach { println(it) }
-    println("o__o")
+    println("")
 
 }
